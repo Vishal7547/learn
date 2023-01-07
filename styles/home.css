@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+div h1{
+    font-weight:bolder;
+    font-size: 3rem;
+    transform: rotate(-20deg);
+    color:orange;
+}
